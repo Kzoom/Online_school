@@ -39,3 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 # 08/21/14 ksw...added rails_12factor do the css would be recognized at heroku
 gem 'rails_12factor'
+# 08/26/14 ksw...added for Slim framework
+gem 'slim'
+gem 'slim-rails'
